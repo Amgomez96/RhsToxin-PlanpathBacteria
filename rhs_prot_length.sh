@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Navigate to the directory containing the .fa files
+# Add to the directory containing the .fa files
 cd "Your/Filename/directory"
 
 # Create a CSV file and add headers
